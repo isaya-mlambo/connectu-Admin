@@ -1,0 +1,46 @@
+.SignUpContainer {
+  display: flex;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  width: 100%;
+  padding: 0;
+  color: white;
+  background: url("../../assets/mainBackgoundPic.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  border: 1px solid black;
+}
+
+form {
+  width: 100%;
+  height: 100%;
+  padding: 20% 20%;
+  background: linear-gradient(
+      90deg,
+      rgba(52, 3, 32, 0.779) 0%,
+      rgba(74, 78, 3, 0.745) 79%,
+      rgba(0, 213, 255, 0.138) 100%
+    );
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+  min-width:100%;
+}
+
+button {
+  margin-top: 5px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+
