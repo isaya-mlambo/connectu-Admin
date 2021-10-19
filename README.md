@@ -12,4 +12,9 @@ RUN:
  - yarn install
  - npm run build
  - yarn start
+ 
+ Running on firebase host:
+  - firebase login
+  - firebase init (And choose ONLY the services that you'll make use of in the app)
+  - firebase deploy
   
