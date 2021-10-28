@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49be09e7.chunk.css",
+    "main.js": "/static/js/main.66109893.chunk.js",
+    "main.js.map": "/static/js/main.66109893.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2e8e232.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2e8e232.js.map",
+    "static/js/2.e92f64e6.chunk.js": "/static/js/2.e92f64e6.chunk.js",
+    "static/js/2.e92f64e6.chunk.js.map": "/static/js/2.e92f64e6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.49be09e7.chunk.css.map": "/static/css/main.49be09e7.chunk.css.map",
+    "static/js/2.e92f64e6.chunk.js.LICENSE.txt": "/static/js/2.e92f64e6.chunk.js.LICENSE.txt",
+    "static/media/Forum.6a1318dc.svg": "/static/media/Forum.6a1318dc.svg",
+    "static/media/draft.cbc488ec.svg": "/static/media/draft.cbc488ec.svg",
+    "static/media/home-solid.831db11d.svg": "/static/media/home-solid.831db11d.svg",
+    "static/media/meeting.6bb6cff1.svg": "/static/media/meeting.6bb6cff1.svg",
+    "static/media/power-off-solid.64f21014.svg": "/static/media/power-off-solid.64f21014.svg",
+    "static/media/sent.433dad78.svg": "/static/media/sent.433dad78.svg",
+    "static/media/social.90efc33f.svg": "/static/media/social.90efc33f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e8e232.js",
+    "static/js/2.e92f64e6.chunk.js",
+    "static/css/main.49be09e7.chunk.css",
+    "static/js/main.66109893.chunk.js"
+  ]
+}

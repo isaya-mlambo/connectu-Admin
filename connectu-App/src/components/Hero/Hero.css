@@ -1,0 +1,12 @@
+.Hero {
+  display: block;
+  background: url("../../assets/mainBackgoundPic.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  padding: 20% 20%;
+  color: white;
+  overflow-x: hidden;
+}
