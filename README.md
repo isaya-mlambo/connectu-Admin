@@ -21,4 +21,10 @@ RUN:
   - firebase deploy
   
 RUN ZOOM API:
- - cd zoom-A
+ - cd zoomApi (from connectu-Admin directory)
+  - yarn install
+  - node index.js
+ (You should be notified that your App is successfully connected to port 3444)
+ 
+ 
+ 
